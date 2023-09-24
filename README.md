@@ -1,5 +1,4 @@
 👻 Hey!
-<!-- <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=coldinke&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=coldinke&show_icons=true" />
 
 I am a senior student 
