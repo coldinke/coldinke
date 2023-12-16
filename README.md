@@ -4,8 +4,8 @@
 I am a senior student 
 and <b>currently searching for an internship.</b>
 
-- Language: C/C++, Python, Rust, Golang(In process)
-- More about me (TODO)
+- Language: C/C++, Python, Rust, Go(In process)
+- More about me: [Click here](https://blog.v1nci.xyz/about/)
 
 <!--
 **coldinke/coldinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
