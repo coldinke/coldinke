@@ -1,11 +1,21 @@
-👻 Hey!
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=coldinke&show_icons=true" />
+<h3 align="center"> v1nci </h3>
 
-I am a senior student 
-and <b>currently searching for an internship.</b>
+<p align="center">
+  <samp>
+    <a href="https://blog.v1nci.xyz/">blog</a> ∙
+    <a href="https://note.v1nci.xyz/">note</a> ∙
+   </samp>
+</p>
 
-- Language: C/C++, Python, Rust, Go(In process)
-- More about me: [Click here](https://blog.v1nci.xyz/about/)
+<p align="center">
+  <a href="https://github.com/coldinke">
+    <img width="400" align="top" src="https://github.com/coldinke/coldinke/blob/main/general.svg" />
+  </a>
+  &emsp;
+  <a href="https://github.com/coldinke">
+    <img width="400" align="top" src="https://github.com/coldinke/coldinke/blob/main/topics.svg" />
+  </a>
+</p>
 
 <!--
 **coldinke/coldinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
