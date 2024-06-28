@@ -31,7 +31,6 @@ jobs:
           plugin_starlists_limit_languages: 6
           plugin_starlists_languages_ignored: html
           plugin_starlists_limit_repositories: 0
-          plugin_starlists_only: Learning
           config_order: languages, starlists
           user: coldinke
           template: classic
@@ -54,5 +53,4 @@ jobs:
           config_order: base.header, leetcode, topics
           user: coldinke
           template: classic
-          base: ""
           config_timezone: Asia/Shanghai
