@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 16 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.Metrics_Secret }}
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languates_limit: 6
+          plugin_languages_limit: 6
           plugin_languages_ignored: html, css, 4D, q
           plugin_languages_details: bytes-size, percentage
           plugin_starlists: yes
@@ -30,6 +30,8 @@ jobs:
           config_order: languages, starlists
           user: coldinke
           template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
 
       - name: topics
         uses: lowlighter/metrics@latest
@@ -37,14 +39,17 @@ jobs:
         with:
           filename: topics.svg
           token: ${{ secrets.Metrics_Secret }}
-          base: ""
-          config_timezone: Asia/Shanghai
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           config_order: topics
+          user: coldinke
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+
       - name: leetcode
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
