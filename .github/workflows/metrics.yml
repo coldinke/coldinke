@@ -38,18 +38,20 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
 
-      - name: topics
+      - name: others
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
           filename: others.svg
           token: ${{ secrets.Metrics_Secret }}
+          base: header
+          base_indepth: yes
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-          config_order: topics
+          config_order: base.header, leetcode, topics
           user: coldinke
           template: classic
           base: ""
