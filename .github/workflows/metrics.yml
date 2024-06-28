@@ -45,18 +45,10 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
           config_order: topics
           user: coldinke
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
-
-      - name: leetcode
-        uses: lowlighter/metrics@latest
-        if: ${{ success() || failure() }}
-        with:
-          filename: leetcode.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
