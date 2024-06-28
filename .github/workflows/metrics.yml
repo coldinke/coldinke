@@ -40,7 +40,7 @@ jobs:
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
-          filename: topics.svg
+          filename: others.svg
           token: ${{ secrets.Metrics_Secret }}
           plugin_topics: yes
           plugin_topics_limit: 0
