@@ -30,5 +30,27 @@ jobs:
           config_order: languages, starlists
           user: coldinke
           template: classic
-          
-          
+
+      - name: topics
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          filename: topics.svg
+          token: ${{ secrets.Metrics_Secret }}
+          base: ""
+          config_timezone: Asia/Shanghai
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+          config_order: topics
+      - name: leetcode
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          filename: leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
