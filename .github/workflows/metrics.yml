@@ -10,15 +10,25 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: left
+    
+      - name: General
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          filename: general.svg
           token: ${{ secrets.Metrics_Secret }}
-          filename: metrics.left.svg
-
-          user: Coldinke
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languates_limit: 6
+          plugin_languages_ignored: html, css, 4D, q
+          plugin_languages_details: bytes-size, percentage
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_languages: 6
+          plugin_starlists_languages_ignored: html
+          config_order: languages, starlists
+          user: coldinke
           template: classic
+          
           
