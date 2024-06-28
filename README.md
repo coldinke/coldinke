@@ -2,8 +2,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://blog.v1nci.xyz/">blog</a> ∙
-    <a href="https://note.v1nci.xyz/">note</a> ∙
+    <a href="https://blog.v1nci.xyz/">blog</a>  | 
+    <a href="https://note.v1nci.xyz/">note</a> 
    </samp>
 </p>
 
@@ -13,10 +13,7 @@
   </a>
   &emsp;
   <a href="https://github.com/coldinke">
-    <img width="400" align="top" src="https://github.com/coldinke/coldinke/blob/main/topics.svg" />
-  </a>
-  <a href="https://github.com/coldinke">
-    <img width="400" align="top" src="https://github.com/coldinke/coldinke/blob/main/leetcode.svg" />
+    <img width="400" align="top" src="https://github.com/coldinke/coldinke/blob/main/others.svg" />
   </a>
 </p>
 
