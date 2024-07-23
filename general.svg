@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.13712369824975" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="292.13712369824975" y="0" width="87.23412575400634" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="379.37124945225617" y="0" width="64.96698728883487" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="444.338236741091" y="0" width="10.448509932065146" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.78674667315613" y="0" width="2.61363992832227" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.40038660147843" y="0" width="2.5996133985215932" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.94832834086486" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="291.94832834086486" y="0" width="87.17775018030521" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="379.1260785211701" y="0" width="64.9250019860834" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="444.05108050725346" y="0" width="10.441757520246368" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.4928380274998" y="0" width="2.8952111245593617" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="457.3880491520592" y="0" width="2.611950847940782" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,7 +39,7 @@
                             </div>
                             <small>
                                 <div>6.52 MB</div>
-                                <div>63.51%</div>
+                                <div>63.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,19 +51,19 @@
                             </div>
                             <small>
                                 <div>1.45 MB</div>
-                                <div>14.12%</div>
+                                <div>14.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Vue
+                                Rust
                             </div>
                             <small>
-                                <div>58.3 kB</div>
-                                <div>0.57%</div>
+                                <div>64.6 kB</div>
+                                <div>0.63%</div>
                             </small>
                         </div>
                     </section>
@@ -77,7 +77,7 @@
                             </div>
                             <small>
                                 <div>1.95 MB</div>
-                                <div>18.96%</div>
+                                <div>18.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -95,12 +95,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                Vue
                             </div>
                             <small>
-                                <div>58 kB</div>
+                                <div>58.3 kB</div>
                                 <div>0.57%</div>
                             </small>
                         </div>
