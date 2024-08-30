@@ -118,7 +118,7 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x51</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x46</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x45</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x42</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x43</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x42</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x30</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x30</span></div>
@@ -138,7 +138,7 @@
                         </svg>
                         <div class="infos">
                             <div class="title">Count Sub Islands</div>
-                            <div class="date">29 Aug 2024</div>
+                            <div class="date">30 Aug 2024</div>
                         </div>
                     </div>
                     <div class="field">
