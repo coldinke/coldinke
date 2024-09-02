@@ -69,9 +69,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.215440952090326 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">291</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3277</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.306894447834043 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">292</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3278</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -87,9 +87,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="27.640606767794633 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">144</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1714</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="27.816326530612244 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">145</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1715</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -113,7 +113,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x155</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x156</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x62</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x51</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x46</span></div>
@@ -137,8 +137,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Convert 1D Array Into 2D Array</div>
-                            <div class="date">1 Sept 2024</div>
+                            <div class="title">Find the Student that Will Replace the Chalk</div>
+                            <div class="date">2 Sept 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -146,8 +146,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Modify Graph Edge Weights</div>
-                            <div class="date">31 Aug 2024</div>
+                            <div class="title">Convert 1D Array Into 2D Array</div>
+                            <div class="date">1 Sept 2024</div>
                         </div>
                     </div>
                 </section>
