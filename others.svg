@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 20 repositories
+                            Contributed to 19 repositories
                         </div>
                     </section>
                 </div>
@@ -69,8 +69,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.085446859903385 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">323</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.184782608695656 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">324</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3312</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -78,8 +78,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="51.65458937198068 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">130</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="52.05193236714976 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">131</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/828</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -114,7 +114,7 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x175</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x73</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x74</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x63</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x48</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x48</span></div>
@@ -137,8 +137,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Sentence Similarity III</div>
-                            <div class="date">6 Oct 2024</div>
+                            <div class="title">Minimum String Length After Removing Substrings</div>
+                            <div class="date">7 Oct 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -146,8 +146,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Permutation in String</div>
-                            <div class="date">5 Oct 2024</div>
+                            <div class="title">Sentence Similarity III</div>
+                            <div class="date">6 Oct 2024</div>
                         </div>
                     </div>
                 </section>
